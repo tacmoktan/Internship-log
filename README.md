@@ -1,4 +1,5 @@
 # SmartCode Technology
+<img src="logo1.png" alt="logo" height="120">
 
 ## Office Log
 
@@ -9,5 +10,11 @@
 * Researched single page office sites.
 * Chose a frontpage image.
 * Built a fixed navbar.
+
+#### Day 2
+* Added new front page.
+* Added separate `mixins` and `variables` from `style.scss`.
+* Added **ABOUT** section
+* Added **SERVICES** section
 
 
