@@ -14,7 +14,13 @@
 #### Day 2
 * Added new front page.
 * Added separate `mixins` and `variables` from `style.scss`.
-* Added **ABOUT** section
-* Added **SERVICES** section
+* Added **ABOUT** section.
+* Added **SERVICES** section.
+
+#### Day 3
+* Added **WHY CHOOSE US** in **SERVICES** section.
+* Added **CONTACT** section.  
+* Added **FOOTER** section.
+* Added **Drawer** (*responsive navbar*). 
 
 
