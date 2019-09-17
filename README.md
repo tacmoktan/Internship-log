@@ -23,4 +23,8 @@
 * Added **FOOTER** section.
 * Added **Drawer** (*responsive navbar*). 
 
-
+#### Day 4 
+* Added transition to *Navbar*, *logo*.
+* Changed responsive navbar styles.   
+* Changed *Frontpage-bg*, *footer* (styles and structure).
+* Went through React Redux tutorial
