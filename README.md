@@ -35,3 +35,8 @@
 ### Day 5
 * Created gitlab account.
 * Added FrontPage ( *bg img, label, select, textbox element* ).
+
+### Day 6
+* Removed bg img.
+* Added static HeaderForm component (used react-select, html select). 
+* Added static LeaderBoard (*table*) component.
