@@ -38,11 +38,16 @@
 
 ### Day 6
 * Removed bg img.
-* Added static HeaderForm component (used react-select, html select). 
-* Added static LeaderBoard (*table*) component.
+* Added static **HeaderForm** component (used react-select, html select). 
+* Added static **LeaderBoard** (*table*) component.
 
 ### Day 7
 * Created mixins & variables.
-* Updated styles of LeaderBoard table.
+* Updated styles of **LeaderBoard** table.
 * **OUT OF PROJECT** : Made language translated XML files( *chinese simplified & tradition, malaysian, indonesian* )
+
+### Day 8
+* created states, event handlers for **HeaderForm** component.
+* Removed *Google Play Store* section from **HeaderForm** component.
+* installed axios.
 
