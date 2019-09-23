@@ -51,3 +51,9 @@
 * Removed *Google Play Store* section from **HeaderForm** component.
 * installed axios.
 
+## **3rd Project**
+
+### Day 9
+* Got shared a NEAproject.
+* Went through Redux tutorials.
+* created an id ( *id: 8, username: Tashi* ) for attendence and *checked out* only. 
