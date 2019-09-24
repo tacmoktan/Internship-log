@@ -29,6 +29,7 @@
 * Changed *Frontpage-bg*, *footer* (styles and structure).
 * Went through React Redux tutorial
 
+## **End of 1st Project**
 
 ## **2nd Project:** App Ranking Site
 
@@ -51,9 +52,17 @@
 * Removed *Google Play Store* section from **HeaderForm** component.
 * installed axios.
 
-## **3rd Project**
+## **End of 2nd Project**
 
 ### Day 9
-* Got shared a NEAproject.
+* Got shared a NEAproject in gitlab.
 * Went through Redux tutorials.
 * created an id ( *id: 8, username: Tashi* ) for attendence and *checked out* only. 
+
+## **3rd Project**: Build Sapien site (*similar to office site*)
+
+### Day 10
+* Went through Redux tutorials/docs/basic eg.
+* Got assigned a new project.
+* Reused codes from **SmartCode Technology**'s Office Site.
+* Changed images, colors( *primary, secondary* ), icons, styles.
