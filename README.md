@@ -66,3 +66,8 @@
 * Got assigned a new project.
 * Reused codes from **SmartCode Technology**'s Office Site.
 * Changed images, colors( *primary, secondary* ), icons, styles.
+
+### Day 11
+* Adjusted colors, background blend mode.
+* Placed the **Visit Us** section to footer.
+* Update styles for responsive navbar.
