@@ -71,3 +71,8 @@
 * Adjusted colors, background blend mode.
 * Placed the **Visit Us** section to footer.
 * Update styles for responsive navbar.
+
+### Day 12
+* **OUT OF PROJECT**: Pushed a basic redux + react router site(blogs) to github.
+* Added new logo for Sapien site.
+* Changed colors( *primary, secondary* ) of Sapien site.
