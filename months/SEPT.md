@@ -48,7 +48,7 @@
 * Removed *Google Play Store* section from **HeaderForm** component.
 * installed axios.
 
-## **End of 2nd Project**
+## **Pause 2nd Project**
 
 ### Day 9
 * Got shared a NEAproject in gitlab.
@@ -82,3 +82,5 @@
 * Added form container along with bg img.
 * Added favicons.
 * Updated form styles.
+
+## **End of 3rd Project**

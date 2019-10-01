@@ -10,6 +10,8 @@
 ### [SEPTEMBER 11-30](months/SEPT.md)
 * Worked on following offical projects:
     * [Office site](https://tacmoktan.github.io/Office-site/)   
-    * Ranking App
+    * Ranking App	
     * [Techie Sapiens Site](https://tacmoktan.github.io/Sapien-site/)
+
+### [OCTOBER](months/OCT.md)
 
