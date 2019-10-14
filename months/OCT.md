@@ -17,3 +17,9 @@
 * Updated styling for AppDetails.
 * Updated styling for LeaderBoard.
 
+## - - - DASHAIN VACATION ( OCT 4-13 ) - - -
+
+### Day 18 
+* Updated `gitlab-ci.yml` file.
+* Updated table styles of LEADERBOARD.
+* **OUT OF PROJECT**: Went through **NEA Project**.
