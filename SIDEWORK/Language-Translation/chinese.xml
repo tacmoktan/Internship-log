@@ -1,0 +1,215 @@
+<resources>
+    <array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <array name="marital_options">
+        <item>Single</item>
+        <item>Married</item>
+    </array>
+    <array name="id_citizeen_options">
+        <item>Select ID/Passport</item>
+        <item>Citizenship</item>
+        <item>Passport</item>
+    </array>
+    <array name="package_options">
+        <item>Gold</item>
+        <item>Platinum</item>
+        <item>Diamond</item>
+    </array>
+    <array name="divident_options">
+        <item>Product</item>
+        <item>Asset</item>
+    </array>
+    <array name="tree_options">
+        <item>Standard Tree</item>
+        <item>Auto Tree</item>
+        <item>Special Tree</item>
+    </array>
+    <string name="app_name">Golden Gate</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_user">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="country_id">Country ID</string>
+
+    <string name="address">Address</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="categories">Categories</string>
+    <string name="featured">Featured</string>
+    <string name="item_name">Item Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="e_cash_wallet">Cash wallet</string>
+    <string name="e_voucher">Voucher Wallet</string>
+    <string name="register_point">R Wallet</string>
+    <string name="convert_from">Convert From</string>
+    <string name="select_wallet">Select Wallet</string>
+    <string name="money_hint">$00.00</string>
+    <string name="convert_to">Convert To</string>
+    <string name="submit">Submit</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="details">DETAILS</string>
+    <string name="share">SHARE</string>
+    <string name="you_might_also_like">You may also like</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Tax</string>
+    <string name="_17_80">$17.80</string>
+    <string name="select_address">Select address</string>
+    <string name="default_address">Default address</string>
+    <string name="other_address">Other address</string>
+    <string name="clear_shopping_cart">Clear shopping cart</string>
+
+    <string name="update_shopping_cart">Continue Shopping</string>
+    <string name="order_total">Total</string>
+    <string name="go_to_checkout">Go to checkout</string>
+
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="select_payment_method">Select payment method</string>
+    <string name="options">Options:</string>
+    <string name="add">Add</string>
+    <string name="discard">Discard</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="checkout_successful">Checkout Successful</string>
+    <string name="my_orders">My Orders</string>
+    <string name="qty">Qty:</string>
+    <string name="setting">Setting</string>
+    <string name="account_information">Account Information</string>
+    <string name="address_book">Address Book</string>
+    <string name="language_english">Language(english)-en</string>
+    <string name="policies">Policies</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="add_mobile">Add Mobile</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_email">New Email</string>
+    <string name="new_mobile">New Mobile</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="search">Search</string>
+    <string name="city">City</string>
+    <string name="save">Save</string>
+    <string name="country">Country</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="identification_number">Identification Number</string>
+    <string name="identification_type">Identification Type</string>
+    <string name="gender">Gender</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="date_of_birth">Date Of Birth:</string>
+    <string name="login_id">Login ID</string>
+    <string name="transfer_amount">Transfer Amount</string>
+    <string name="change_transaction_password">Change Transaction Password</string>
+    <string name="see_all">See All</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="first_name">First Name</string>
+    <string name="id_passport_no">ID/Passport No.</string>
+    <string name="nominee_name">Nominee Name</string>
+    <string name="nominee_phone_no">Nominee Phone No.</string>
+    <string name="relationship">Relationship</string>
+    <string name="confirm_transaction_password">Confirm Transaction Password</string>
+    <string name="transaction_password">Transaction Password</string>
+    <string name="sponser">Sponsor</string>
+    <string name="shipping">Shipping</string>
+    <string name="there_are_no_items_in_the_cart">There are no items in the cart</string>
+    <string name="product_mycart">Products</string>
+    <string name="history">History</string>
+    <string name="total_price_orderDetail">Total Price</string>
+    <string name="variants">Variants :</string>
+    <string name="images">Images :</string>
+    <string name="don_t_have_an_account">Don’t have an account ?</string>
+    <string name="buy">Buy</string>
+    <string name="item_out_of_stock">Item out of stock</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="chips">Chips</string>
+    <string name="payment_option">Payment Option</string>
+    <string name="merchant">Merchant</string>
+    <string name="check_merchant">Check Merchant</string>
+    <string name="or">OR</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="merchant_detail">Merchant Detail</string>
+    <string name="hint_money">$000</string>
+    <string name="pay">Pay</string>
+    <string name="price">Price</string>
+    <string name="sort_by">Sort By</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="sender_detail">Sender Detail</string>
+    <string name="request">Request</string>
+    <string name="request_information">Request Information</string>
+    <string name="transfer">Transfer</string>
+    <string name="withdraw_amount">WithDraw Amount</string>
+    <string name="bank_detail">Bank Detail</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="account_holder">Account Holder</string>
+    <string name="account_number">Account Number</string>
+    <string name="remark">Remark</string>
+    <string name="remarks_here">Remarks here</string>
+    <string name="shopping_points">Shopping Points</string>
+    <string name="divident">Divident/Assets</string>
+    <string name="member_master">Member Master</string>
+    <string name="add_new_member">Add New Member</string>
+    <string name="member_list">Member List</string>
+    <string name="placement_tree">Placement Tree</string>
+    <string name="certificate">Certificate</string>
+    <string name="business_management">Business Management</string>
+    <string name="wallet_converter">Wallet Converter</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="payment">Payment</string>
+    <string name="min_val">Min val</string>
+    <string name="max_val">Max Val</string>
+    <string name="change_mobile">Change Mobile???</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="wallet_transfer">Wallet Transfer</string>
+    <string name="requested_transfer">Requested Transfer</string>
+    <string name="enter_your_transaction_password">Enter your transaction password</string>
+    <string name="sn">SN.</string>
+    <string name="sender_s_name">Sender\'s Name</string>
+    <string name="sender_s_user_name">Sender\'s User Name</string>
+    <string name="amount">Amount</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+
+    <string name="member">Member</string>
+    <string name="check_member">Check Member</string>
+    <string name="check">Check</string>
+    <string name="zero">0</string>
+    <string name="cart">Cart</string>
+    <string name="base_url">http://128.199.214.172/trading/api/</string>
+    <string name="qr_code">QR Code</string>
+
+    <string name="member_id">Member ID</string>
+    <string name="send_email">Send Email</string>
+    <string name="requested_payment">Requested Payment</string>
+    <string name="description">Description</string>
+    <string name="colors">Colors:</string>
+    <string name="currency_text">Currency ($)</string>
+    <string name="upgrade_account">Upgrade Account</string>
+    <string name="assets">Assets</string>
+    <string name="products">Products</string>
+    <string name="complementary_option">Complementary Option</string>
+    <string name="r_wallet_amount">R Wallet Amount</string>
+    <string name="claim_product">Claim Product</string>
+    <string name="bidding">Bidding</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_not_match">Confirm password does not match password</string>
+    <string name="txn_pass_filled">Confirm Transaction Password Must Be filled</string>
+    <string name="txn_not_match_confirm_txn_pass">Transaction password does not match confirm transaction password</string>
+    <string name="txn_pass_must_fill">Transaction Password Must Be filled</string>
+    <string name="confirm_pass_must_fill">Confirm Password Must Be filled</string>
+    <string name="password_must_fill">Password Text Must Be filled</string>
+    <string name="login_must_fill">Login Id Must Be filled</string>
+</resources>

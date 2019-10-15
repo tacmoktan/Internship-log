@@ -1,0 +1,215 @@
+﻿<resources>
+    <array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+    <array name="marital_options">
+        <item>Single</item>
+        <item>Married</item>
+    </array>
+    <array name="id_citizeen_options">
+        <item>Select ID/Passport</item>
+        <item>Citizenship</item>
+        <item>Passport</item>
+    </array>
+    <array name="package_options">
+        <item>Gold</item>
+        <item>Platinum</item>
+        <item>Diamond</item>
+    </array>
+    <array name="divident_options">
+        <item>Product</item>
+        <item>Asset</item>
+    </array>
+    <array name="tree_options">
+        <item>Standard Tree</item>
+        <item>Auto Tree</item>
+        <item>Special Tree</item>
+    </array>
+    <string name="app_name">Golden Gate</string>
+    <string name="title_home">主頁</string>
+    <string name="title_cart">購物車</string>
+    <string name="title_user">個人資料</string>
+    <string name="title_dashboard">首页</string>
+    <string name="surname">姓</string>
+    <string name="name">名稱</string>
+    <string name="email">電子郵件</string>
+    <string name="password">密碼</string>
+    <string name="username">用戶名</string>
+
+    <string name="log_in">登錄</string>
+    <string name="sign_up">註冊</string>
+    <string name="country_id">Country ID</string>
+
+    <string name="address">地址</string>
+    <string name="contact_no">聯繫電話</string>
+    <string name="categories">類別</string>
+    <string name="featured">精選</string>
+    <string name="item_name">Item Name</string>
+    <string name="forgot_password">忘記密碼？</string>
+    <string name="e_cash_wallet">現金錢包</string>
+    <string name="e_voucher">優惠錢包</string>
+    <string name="register_point">R 钱包</string>
+    <string name="convert_from">轉換自</string>
+    <string name="select_wallet">選擇錢包</string>
+    <string name="money_hint">$00.00</string>
+    <string name="convert_to">轉換成</string>
+    <string name="submit">提交</string>
+    <string name="add_to_cart">添加到購物車</string>
+    <string name="details">DETAILS</string>
+    <string name="share">SHARE</string>
+    <string name="you_might_also_like">You may also like</string>
+    <string name="subtotal">小計</string>
+    <string name="tax">稅</string>
+    <string name="_17_80">$17.80</string>
+    <string name="select_address">選擇地址</string>
+    <string name="default_address">默認地址</string>
+    <string name="other_address">Other address</string>
+    <string name="clear_shopping_cart">Clear shopping cart</string>
+
+    <string name="update_shopping_cart">繼續購物</string>
+    <string name="order_total">合計</string>
+    <string name="go_to_checkout">Go to checkout</string>
+
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="select_payment_method">Select payment method</string>
+    <string name="options">Options:</string>
+    <string name="add">Add</string>
+    <string name="discard">Discard</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="checkout_successful">Checkout Successful</string>
+    <string name="my_orders">My Orders</string>
+    <string name="qty">Qty:</string>
+    <string name="setting">Setting</string>
+    <string name="account_information">帳戶信息</string>
+    <string name="address_book">地址簿</string>
+    <string name="language_english">Language(english)-en</string>
+    <string name="policies">Policies</string>
+    <string name="help">Help</string>
+    <string name="logout">登出</string>
+    <string name="add_mobile">Add Mobile</string>
+    <string name="change_email">更改電子郵件</string>
+    <string name="change_password">更改密碼</string>
+    <string name="new_password">新密碼</string>
+    <string name="confirm_password">確認密碼</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_email">新郵件</string>
+    <string name="new_mobile">New Mobile</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="search">Search</string>
+    <string name="city">城市</string>
+    <string name="save">保存</string>
+    <string name="country">Country</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="identification_number">Identification Number</string>
+    <string name="identification_type">Identification Type</string>
+    <string name="gender">性別</string>
+    <string name="marital_status">婚姻狀況</string>
+    <string name="date_of_birth">Date Of Birth:</string>
+    <string name="login_id">Login ID</string>
+    <string name="transfer_amount">Transfer Amount</string>
+    <string name="change_transaction_password">Change Transaction Password</string>
+    <string name="see_all">查看全部</string>
+    <string name="phone_no">電話號碼</string>
+    <string name="first_name">First Name</string>
+    <string name="id_passport_no">身份證/護照號碼</string>
+    <string name="nominee_name">Nominee Name</string>
+    <string name="nominee_phone_no">Nominee Phone No.</string>
+    <string name="relationship">關係</string>
+    <string name="confirm_transaction_password">確認交易密碼</string>
+    <string name="transaction_password">交易密碼</string>
+    <string name="sponser">贊助</string>
+    <string name="shipping">運輸</string>
+    <string name="there_are_no_items_in_the_cart">購物車中沒有商品</string>
+    <string name="product_mycart">產品</string>
+    <string name="history">History</string>
+    <string name="total_price_orderDetail">Total Price</string>
+    <string name="variants">Variants :</string>
+    <string name="images">Images :</string>
+    <string name="don_t_have_an_account">沒有帳戶？</string>
+    <string name="buy">購買</string>
+    <string name="item_out_of_stock">Item out of stock</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="chips">籌碼</string>
+    <string name="payment_option">Payment Option</string>
+    <string name="merchant">商人</string>
+    <string name="check_merchant">檢查商家</string>
+    <string name="or">OR</string>
+    <string name="scan_qr_code">掃描二維碼</string>
+    <string name="merchant_detail">商人細節</string>
+    <string name="hint_money">$000</string>
+    <string name="pay">Pay</string>
+    <string name="price">Price</string>
+    <string name="sort_by">Sort By</string>
+    <string name="enter_amount">輸入金額</string>
+    <string name="sender_detail">寄件人細節</string>
+    <string name="request">Request</string>
+    <string name="request_information">請求信息</string>
+    <string name="transfer">轉移</string>
+    <string name="withdraw_amount">WithDraw Amount</string>
+    <string name="bank_detail">銀行細節</string>
+    <string name="bank_name">銀行名</string>
+    <string name="account_holder">帳戶持有人</string>
+    <string name="account_number">帳號</string>
+    <string name="remark">備註</string>
+    <string name="remarks_here">可在此留下備注</string>
+    <string name="shopping_points">購物點</string>
+    <string name="divident">股利</string>
+    <string name="member_master">會員大師</string>
+    <string name="add_new_member">Add New Member</string>
+    <string name="member_list">Member List</string>
+    <string name="placement_tree">展示位置shu'gan't</string>
+    <string name="certificate">Certificate</string>
+    <string name="business_management">商業管理</string>
+    <string name="wallet_converter">Wallet Converter</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="payment">付款</string>
+    <string name="min_val">Min val</string>
+    <string name="max_val">Max Val</string>
+    <string name="change_mobile">Change Mobile???</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="wallet_transfer">錢包轉移</string>
+    <string name="requested_transfer">Requested Transfer</string>
+    <string name="enter_your_transaction_password">Enter your transaction password</string>
+    <string name="sn">SN.</string>
+    <string name="sender_s_name">Sender\'s Name</string>
+    <string name="sender_s_user_name">Sender\'s User Name</string>
+    <string name="amount">Amount</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+
+    <string name="member">Member</string>
+    <string name="check_member">檢查會員</string>
+    <string name="check">Check</string>
+    <string name="zero">0</string>
+    <string name="cart">購物車</string>
+    <string name="base_url">http://128.199.214.172/trading/api/</string>
+    <string name="qr_code">二維碼</string>
+
+    <string name="member_id">Member ID</string>
+    <string name="send_email">Send Email</string>
+    <string name="requested_payment">Requested Payment</string>
+    <string name="description">Description</string>
+    <string name="colors">Colors:</string>
+    <string name="currency_text">貨幣 ($)</string>
+    <string name="upgrade_account">Upgrade Account</string>
+    <string name="assets">Assets</string>
+    <string name="products">產品</string>
+    <string name="complementary_option">Complementary Option</string>
+    <string name="r_wallet_amount">R Wallet Amount</string>
+    <string name="claim_product">Claim Product</string>
+    <string name="bidding">Bidding</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_not_match">Confirm password does not match password</string>
+    <string name="txn_pass_filled">Confirm Transaction Password Must Be filled</string>
+    <string name="txn_not_match_confirm_txn_pass">Transaction password does not match confirm transaction password</string>
+    <string name="txn_pass_must_fill">Transaction Password Must Be filled</string>
+    <string name="confirm_pass_must_fill">Confirm Password Must Be filled</string>
+    <string name="password_must_fill">Password Text Must Be filled</string>
+    <string name="login_must_fill">Login Id Must Be filled</string>
+</resources>

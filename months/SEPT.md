@@ -41,7 +41,8 @@
 ### Day 7
 * Created mixins & variables.
 * Updated styles of **LeaderBoard** table.
-* **OUT OF PROJECT** : Made language translated XML files( *chinese simplified & tradition, malaysian, indonesian* )
+* **OUT OF PROJECT**
+    * Made language translated [XML files](../SIDEWORK/Language-Translation/) ( *chinese simplified & tradition, malaysian, indonesian* )
 
 ### Day 8
 * created states, event handlers for **HeaderForm** component.
