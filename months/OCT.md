@@ -21,5 +21,12 @@
 
 ### Day 18 
 * Updated `gitlab-ci.yml` file.
-* Updated table styles of LEADERBOARD.
+* Updated table styles of LEADERBOARD component.
 * **OUT OF PROJECT**: Went through **NEA Project**.
+
+### Day 19
+* Added *Serial-No* in LEADERBOARD component.
+* Added styles for Responsive Table.
+* **SIDE WORK (OUT OF PROJECT)**
+    * installed *Bulmasamiq* software.
+    * created **wireframes** for [LVG](../SIDEWORK/LVG-Wireframes).
