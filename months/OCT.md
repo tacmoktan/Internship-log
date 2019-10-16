@@ -24,9 +24,18 @@
 * Updated table styles of LEADERBOARD component.
 * **OUT OF PROJECT**: Went through **NEA Project**.
 
-### Day 19
+### Day 19  ( SHIFTED OFFICE )
 * Added *Serial-No* in LEADERBOARD component.
 * Added styles for Responsive Table.
 * **SIDE WORK (OUT OF PROJECT)**
     * installed *Bulmasamiq* software.
     * created **wireframes** for [LVG](../SIDEWORK/LVG-Wireframes).
+
+## Ranking App ( Pause )
+
+## **Side Project:** Creating Wireframes for LVG
+### Day 20
+* Created Wireframes for 
+    * [Admin](../SIDEWORK/LVG-Wireframes/Admin)
+    * [Artist](../SIDEWORK/LVG-Wireframes/Admin/Artist)
+    * [Client](../SIDEWORK/LVG-Wireframes/Client)
