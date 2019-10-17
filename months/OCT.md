@@ -29,13 +29,18 @@
 * Added styles for Responsive Table.
 * **SIDE WORK (OUT OF PROJECT)**
     * installed *Bulmasamiq* software.
-    * created **wireframes** for [LVG](../SIDEWORK/LVG-Wireframes).
+    * created **wireframes** for [LVG](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)).
 
 ## Ranking App ( Pause )
 
 ## **Side Project:** Creating Wireframes for LVG
 ### Day 20
 * Created Wireframes for 
-    * [Admin](../SIDEWORK/LVG-Wireframes/Admin)
-    * [Artist](../SIDEWORK/LVG-Wireframes/Admin/Artist)
-    * [Client](../SIDEWORK/LVG-Wireframes/Client)
+    * Artist
+    * Client
+
+### Day 21
+* Updated Wireframes for
+    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
+    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+* Went through React/Wordpress tutorials

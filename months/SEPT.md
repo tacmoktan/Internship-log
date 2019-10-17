@@ -42,7 +42,7 @@
 * Created mixins & variables.
 * Updated styles of **LeaderBoard** table.
 * **OUT OF PROJECT**
-    * Made language translated [XML files](../SIDEWORK/Language-Translation/) ( *chinese simplified & tradition, malaysian, indonesian* )
+    * Made language translated [XML files](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/Language-Translation) ( *chinese simplified & tradition, malaysian, indonesian* )
 
 ### Day 8
 * created states, event handlers for **HeaderForm** component.
