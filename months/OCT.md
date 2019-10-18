@@ -44,3 +44,8 @@
     * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
     * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
 * Went through React/Wordpress tutorials
+
+### Day 22
+* Went through
+    * Wordpress API tutorial.
+    * OOP PHP tutorial.
