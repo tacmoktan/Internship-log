@@ -49,3 +49,8 @@
 * Went through
     * Wordpress API tutorial.
     * OOP PHP tutorial.
+
+### Day 23
+* Updated Wireframes for
+    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
+    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
