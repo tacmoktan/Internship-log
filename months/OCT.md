@@ -54,3 +54,11 @@
 * Updated Wireframes for
     * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
     * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+( Added necessary Client mockups)
+
+### Day 24
+* Updated Wireframes for
+    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
+    ( Added AdminToArtist mockups )
+    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+    ( Added AdminToClient mockups )
