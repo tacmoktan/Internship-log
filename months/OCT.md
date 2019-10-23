@@ -62,3 +62,11 @@
     ( Added AdminToArtist mockups )
     * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
     ( Added AdminToClient mockups )
+
+### Day 25
+* Updated Wireframes for [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+    ( Renamed **Staff** to **Employees** in Navbar )
+* Added Wireframes for
+    * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Employees)
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Logistics)
+* Went through Wordpress Tutorials
