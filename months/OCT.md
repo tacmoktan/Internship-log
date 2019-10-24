@@ -69,4 +69,10 @@
 * Added Wireframes for
     * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Employees)
     * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Logistics)
-* Went through Wordpress Tutorials
+* Went through Wordpress Tutorials  ( static Frontend )
+
+### Day 26
+* Went through Wordpress Tutorials covering 
+    * Dynamic header footer
+    * Custom fields (ACF)
+    * Custom post types (CPT)
