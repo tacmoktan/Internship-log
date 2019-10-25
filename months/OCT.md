@@ -76,3 +76,9 @@
     * Dynamic header footer
     * Custom fields (ACF)
     * Custom post types (CPT)
+
+### Day 27
+* Went through Wordpress Tutorials covering
+    * `content-section_name.php` ( dividing a page into several reusable sections )
+    * dynamic & fallback image banner
+    * `index.php` ( editing it for blogs )
