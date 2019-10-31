@@ -82,3 +82,12 @@
     * `content-section_name.php` ( dividing a page into several reusable sections )
     * dynamic & fallback image banner
     * `index.php` ( editing it for blogs )
+
+## - - - TIHAR VACATION ( OCT 26-30 ) - - -
+
+### Day 28
+* Went through Wordpress Tutorials covering
+    * `index.php` -> `content.php` Individual **blogs excerpts**   
+    * `single.php` ->  `content-single.php` Single page **blog details** ( *category, tags, comments* ).
+    * `search.php` **Search** feature ( *search results styling* ).
+    * `archive.php` Archive template customization.
