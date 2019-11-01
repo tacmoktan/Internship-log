@@ -10,8 +10,13 @@
 ### [SEPTEMBER 11-30](months/SEPT.md)
 * Worked on following offical projects:
     * [Office site](https://tacmoktan.github.io/Office-site/)   
-    * Ranking App	
+    * Ranking App   ( pause )	
     * [Techie Sapiens Site](https://tacmoktan.github.io/Sapien-site/)
 
-### [OCTOBER](months/OCT.md)
+### [OCTOBER 1-31](months/OCT.md)
+* Work done:
+    * Updated Ranking App 
+    * Created [LVG Wireframes](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final))
+
+### [NOVEMBER](months/NOV.md)
 
