@@ -2,7 +2,7 @@
 
 ### Day 29
 * Added new wireframes for
-    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Logistics)
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
 * Went through Wordpress tutorials covering
     * Contact Form 7 
 
@@ -13,6 +13,15 @@
 
 ### Day 31
 * Updated wireframes for
-    * [Artists](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
-    * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+    * [Artists](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists)
+    * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
 * Successfully setup **Magento** (viewable frontend/backend).
+
+## - - - Nov 6-7 ( Exam Leave) - - -
+* Updated some wireframes from home on Nov 7th
+
+### Day 32
+* Updated wireframes for
+    * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
+    * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Employees)
+

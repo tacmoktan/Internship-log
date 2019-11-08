@@ -16,7 +16,7 @@
 ### [OCTOBER 1-31](months/OCT.md)
 * Work done:
     * Updated Ranking App 
-    * Created [LVG Wireframes](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final))
+    * Created [LVG Wireframes](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups)
 
 ### [NOVEMBER](months/NOV.md)
 

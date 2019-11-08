@@ -29,7 +29,7 @@
 * Added styles for Responsive Table.
 * **SIDE WORK (OUT OF PROJECT)**
     * installed *Bulmasamiq* software.
-    * created **wireframes** for [LVG](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)).
+    * created **wireframes** for [LVG](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups).
 
 ## Ranking App ( Pause )
 
@@ -41,8 +41,8 @@
 
 ### Day 21
 * Updated Wireframes for
-    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
-    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists)
+    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
 * Went through React/Wordpress tutorials
 
 ### Day 22
@@ -52,23 +52,23 @@
 
 ### Day 23
 * Updated Wireframes for
-    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
-    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists)
+    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
 ( Added necessary Client mockups)
 
 ### Day 24
 * Updated Wireframes for
-    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Artists)
+    * [Artist](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists)
     ( Added AdminToArtist mockups )
-    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+    * [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
     ( Added AdminToClient mockups )
 
 ### Day 25
-* Updated Wireframes for [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Clients)
+* Updated Wireframes for [Client](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
     ( Renamed **Staff** to **Employees** in Navbar )
 * Added Wireframes for
-    * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Employees)
-    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups(final)/Logistics)
+    * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Employees)
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
 * Went through Wordpress Tutorials  ( static Frontend )
 
 ### Day 26
