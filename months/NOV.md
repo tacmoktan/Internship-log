@@ -17,7 +17,7 @@
     * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
 * Successfully setup **Magento** (viewable frontend/backend).
 
-## - - - Nov 6-7 ( Exam Leave) - - -
+## - - - Nov 6-7 ( Exam Leave ) - - -
 * Updated some wireframes from home on Nov 7th
 
 ### Day 32
@@ -25,3 +25,14 @@
     * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
     * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Employees)
 
+## - - - Nov 11 ( Exam Leave ) - - -
+
+### Day 33
+* Updated wireframes for
+    * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Employees)
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
+* Went through **Magento** tutorial.
+
+### Day 34
+* Added wireframes for
+    * [Notification](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Notification)
