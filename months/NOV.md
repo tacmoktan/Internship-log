@@ -36,3 +36,12 @@
 ### Day 34
 * Added wireframes for
     * [Notification](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Notification)
+
+### Day 35
+* Merged all LVG-wireframes for
+    * [Artists](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists) 
+    * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
+    * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Employees)
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
+
+* ## Ranking App Continues ( Working on pagination )
