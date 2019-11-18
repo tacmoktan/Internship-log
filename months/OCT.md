@@ -17,7 +17,9 @@
 * Updated styling for AppDetails.
 * Updated styling for LeaderBoard.
 
-## - - - DASHAIN VACATION ( OCT 4-13 ) - - -
+- - - 
+## DASHAIN VACATION ( OCT 4-13 ) 
+- - -
 
 ### Day 18 
 * Updated `gitlab-ci.yml` file.
@@ -83,7 +85,9 @@
     * dynamic & fallback image banner
     * `index.php` ( editing it for blogs )
 
-## - - - TIHAR VACATION ( OCT 26-30 ) - - -
+- - - 
+## TIHAR VACATION ( OCT 26-30 ) 
+- - -
 
 ### Day 28
 * Went through Wordpress Tutorials covering

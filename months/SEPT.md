@@ -27,6 +27,8 @@
 
 ## **End of 1st Project**
 
+---
+
 ## **2nd Project:** App Ranking Site
 
 ### Day 5
@@ -50,12 +52,13 @@
 * installed axios.
 
 ## **Pause 2nd Project**
+---
 
 ### Day 9
 * Got shared a NEAproject in gitlab.
 * Went through Redux tutorials.
 * created an id ( *id: 8, username: Tashi* ) for attendence and *checked out* only. 
-
+---
 ## **3rd Project**: Build Techie Sapiens site (*similar to office site*)
 
 ### Day 10
