@@ -59,3 +59,9 @@
     * [Employees](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Employees)
     * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
 * Added **Pagination** in **Ranking App**
+
+### Day 37
+* Updated LVG wireframes for 
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
+* In **Ranking App**
+    * Optimized `Home.js` 
