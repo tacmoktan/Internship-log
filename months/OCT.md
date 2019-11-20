@@ -1,5 +1,5 @@
 # OCTOBER
-## **2nd Project**: Ranking App ( Continues )
+## **2<sup>nd</sup> Project**: Ranking App ( Continues )
 
 ### Day 15
 * Pulled updated project.

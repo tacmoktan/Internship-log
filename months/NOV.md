@@ -63,5 +63,18 @@
 ### Day 37
 * Updated LVG wireframes for 
     * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
-* In **Ranking App**
+* **RANKING APP**
     * Optimized `Home.js` 
+
+### Day 38
+* Updated LVG wireframes for
+    * [Logistics](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Logistics)
+* **RANKING APP**
+    * Added **Toggle Button** to show/hide Category field.
+
+## Ranking App (pause)
+---
+## 4<sup>th</sup> Project: MillyGreen
+---
+* Created *Top Header Block*
+

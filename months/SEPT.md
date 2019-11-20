@@ -1,5 +1,5 @@
 # SEPTEMBER 11-30
-## **1st Project:** Build Office Site
+## **1<sup>st</sup> Project:** Build Office Site
 
 ### Day 1
 * Created skype ID.
@@ -29,7 +29,7 @@
 
 ---
 
-## **2nd Project:** App Ranking Site
+## **2<sup>nd</sup> Project:** App Ranking Site
 
 ### Day 5
 * Created gitlab account.
@@ -59,7 +59,7 @@
 * Went through Redux tutorials.
 * created an id ( *id: 8, username: Tashi* ) for attendence and *checked out* only. 
 ---
-## **3rd Project**: Build Techie Sapiens site (*similar to office site*)
+## **3<sup>rd</sup> Project**: Build Techie Sapiens site (*similar to office site*)
 
 ### Day 10
 * Went through Redux tutorials/docs/basic eg.
