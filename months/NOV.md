@@ -78,3 +78,8 @@
 ---
 * Created *Top Header Block*
 
+### Day 39
+* **MILLY GREEN**
+    * Added *Carousel* to frontpage
+    * Added *Eco Materials*, *Best Selling Products section*.
+
