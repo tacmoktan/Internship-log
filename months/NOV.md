@@ -83,3 +83,7 @@
     * Added *Carousel* to frontpage
     * Added *Eco Materials*, *Best Selling Products section*.
 
+### Day 40
+* **MILLY GREEN**
+    * Added styles for *Best Selling Products section*
+    * Added *Footer*.
