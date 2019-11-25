@@ -87,3 +87,10 @@
 * **MILLY GREEN**
     * Added styles for *Best Selling Products section*
     * Added *Footer*.
+
+### Day 41
+* **RANKING APP**
+    * Added full functional *SearchBox* component
+* **LVG**
+    * Add new wireframe for 
+        * [Artists](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists)
