@@ -94,3 +94,11 @@
 * **LVG**
     * Add new wireframe for 
         * [Artists](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Artists)
+
+### Day 42
+* **MILLY GREEN**
+    * Updated font styles and content.
+    * Updated color for actions ( *Add to Wishlist/Basket* ).
+* **LVG**
+    * Updated wireframe for 
+        * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients) 
