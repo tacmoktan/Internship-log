@@ -101,4 +101,8 @@
     * Updated color for actions ( *Add to Wishlist/Basket* ).
 * **LVG**
     * Updated wireframe for 
-        * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients) 
+        * [Clients](https://github.com/tacmoktan/Internship-Side-tasks/tree/master/LVG-mockups/Clients)
+
+### Day 43
+* **RANKING APP**
+    * Added styles to MainForm, SearchBox and Table.
