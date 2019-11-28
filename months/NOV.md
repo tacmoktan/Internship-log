@@ -106,3 +106,7 @@
 ### Day 43
 * **RANKING APP**
     * Added styles to MainForm, SearchBox and Table.
+
+### Day 44
+* **RANKING APP**
+    * Updated styles of ToggleButton, MainForm, Pagination.
