@@ -110,3 +110,11 @@
 ### Day 44
 * **RANKING APP**
     * Updated styles of ToggleButton, MainForm, Pagination.
+
+### Day 45
+* **RANKING APP**
+    * Researched on *Updating states through props*
+* Maintained
+    * **ASANA** account
+    * **Attendence sheet**
+    * **LVG wireframes** completion duration sheet
