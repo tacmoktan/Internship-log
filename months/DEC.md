@@ -13,3 +13,10 @@
     * added styles to the design
 * **Milly Green**
     * Add list, Update title
+
+### day 48
+* **QR CODE site**
+    * Replaced flexbox with positioning
+* **Milly Green**
+    * Add arrows to carousel
+    * Add content to list
