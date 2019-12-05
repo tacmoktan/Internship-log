@@ -20,3 +20,10 @@
 * **Milly Green**
     * Add arrows to carousel
     * Add content to list
+
+### Day 49
+* **QR CODE site**  
+    * Researched
+* **Milly Green**   
+    * Cart icon replaced
+    * Font size for titles updated.
