@@ -27,3 +27,7 @@
 * **Milly Green**   
     * Cart icon replaced
     * Font size for titles updated.
+
+### Day 50
+* **RANKING APP**
+    * Updated **Pagination** structure and styles
