@@ -31,3 +31,7 @@
 ### Day 50
 * **RANKING APP**
     * Updated **Pagination** structure and styles
+
+### Day 51
+* **RANKING APP**
+    * Updated styles for **App Details** 
