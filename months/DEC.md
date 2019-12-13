@@ -35,3 +35,13 @@
 ### Day 51
 * **RANKING APP**
     * Updated styles for **App Details** 
+___
+## 3 Days Leave for Exams
+___
+### Day 52
+* **RANKING APP**
+    * Added transition to *table-row* in **LeaderBoard**
+* **QR code**
+    * Updated page with img of qrcode
+___
+# 3 months Internship Ends
